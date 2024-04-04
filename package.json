@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is particing the backend series with youtube channel chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "Happy"
+  ],
+  "author": "Asif raza",
+  "license": "ISC"
+}
